@@ -1,0 +1,266 @@
+
+https://github.com/janbodnar/pymongo-examples/blob/master/find_one.py
+
+to create and conect a git,
+
+ 1.make a simple git profile first
+ 2. clone the sile git profile into your IDE
+ 3. Add project files below or beside the git directory.
+ 4. add project files to git
+ 5. commit files
+ 6. push changes to remote directory
+
+AktinoLinz
+Locococo88^
+tNa200%Sd
+
+git push --set-upstream https://bitbucket.org/AktinoLinx/mongodb/src/master 
+
+
+git pull  https://bitbucket.org/AktinoLinx/mongodb/src/master master
+
+AktinoLinx
+Locococo88^
+https://raw.githubusercontent.com/Diaonic/JUnit-Testing/master/src/tests/java/medical/com/medicalApplication/model/TestPatientHistory.java
+
+git config --global user.name "AktinoLinx"
+
+
+git config --global user.name "AktinoLinz"
+
+
+git config --global user.email "phoenixlinxprime@gmail.com"
+
+
+git config --global user.password "Locococo86^"
+
+git config --global user.password "tNa200%Sd"
+
+//This will add all files
+
+git add -A
+
+
+
+// This will add/Stage all New and Modified Files
+
+git add --ignore-removal .
+
+
+
+
+
+lsC:\Users\PHOENIX\source\repos\practice_activity_six_navigation_controls
+
+
+
+git config --global user.name "Sam Smith"
+
+
+
+git clone https://bitbucket.org/AktinoLinz/practice_activity_six_navigation_controls/src
+
+
+
+https://bitbucket.org/gshaykhian/jukebox/src/master/
+
+git checkout -b detecting-keyboard-input
+
+
+
+void keyBoardInput(unsigned char key, int x, int y);  // This function will collect the keyword input that will serve as the parameter for the glut keyboard function
+void keyBoardReleased(unsigned char key, int x, int y);
+
+
+git commit -m "added some mouse funtinality. There is much need of improvement. For example the default x cordinate need to start from 0"
+
+
+
+git checkout -b master
+
+git checkout -b detecting-user-keyboard-input
+
+
+git push origin detecting-keyboard-input
+
+
+git checkout -b weekFiveExersiceSix
+
+
+git commit -m "To a limited extent, I added the ability to detect mouse user input. The purpose of the addition is to implement navigation controls of the model."
+
+
+git push https://bitbucket.org/AktinoLinx/cs_330/src/master
+
+
+git push https://bitbucket.org/AktinoLinx/mongodb/src/master
+
+
+
+git pull https://AktinoLinz@bitbucket.org/gshaykhian/jukebox.git
+
+
+git pull https://bitbuc
+
+
+git push --set-upstream https://bitbucket.org/AktinoLinx/mongodb/src/master master
+
+$ git push
+fatal: The current branch addMouseMovementDetection has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin addMouseMovementDetection
+
+
+PHOENIX@PHOENIXLINX MINGW64 /c/GL/Project-0 (addMouseMovementDetection)
+$   git push --set-upstream origin addMouseMovementDetection
+
+Counting objects: 3, done.
+Delta compression using up to 8 threads.
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 855 bytes | 855.00 KiB/s, done.
+Total 3 (delta 2), reused 0 (delta 0)
+remote:
+remote: Create pull request for addMouseMovementDetection:
+remote:   https://bitbucket.org/AktinoLinx/cs_330/pull-requests/new?source=addMouseMovementDetection&t=1
+remote:
+To https://bitbucket.org/AktinoLinx/cs_330.git
+ * [new branch]      addMouseMovementDetection -> addMouseMovementDetection
+Branch 'addMouseMovementDetection' set up to track remote branch 'addMouseMovementDetection' from 'origin'.
+
+
+
+
+git checkout -b addCameraWithKeyboardInput
+
+
+
+
+git checkout -b refineZoom
+
+
+git push --set-upstream origin dmoreCode
+
+
+
+git push --set-upstream origin addCameraWithKeyboardInput
+
+
+git push --set-upstream origin weekFiveExersiceSix
+
+
+git push --set-upstream origin 6-1
+
+
+
+
+git push --set-upstream origin addZoom
+
+
+git commit -m "refined zoom and the degree of the y axis. need to make a loop for the zoom functinality"
+
+git push --set-upstream origin pureform
+
+
+git commit -m "figured out where to add zoom"
+
+
+
+git commit -m "figured out how to add zoom dynamicly"
+
+git commit -m "addead paning but it is glichy"
+
+
+
+git commit -m "figured out how to add zoom and orbit scrolling dynamicly. Now i just have to refine it"
+
+git checkout -b addPannig
+
+
+git checkout -b addCubeAndPolish
+
+git push --set-upstream origin addPannig
+
+
+
+git push --set-upstream origin refineZoom
+
+
+
+git push --set-upstream origin fixRoatationDirection
+
+git checkout -b fixZoomBug
+
+
+ git commit -m "I fixed the isse with the direction of rotation of the model. It is now more intutive to navigate.Need to fix the inital zoom level of the zoom funtion. The zoom level needs to match the last know zoom of the latest displayed model"
+
+
+
+git push --set-upstream  https://github.com/phoenixlinx/graphics2.git
+
+
+git add  GraphicsPad/Primitives/ShapeGenerator.cpp
+
+
+git commit -m "replaced an instance of NUM_VERTS"
+
+git checkout -b makeItWork
+
+
+
+
+
+git config --global user.name "AktinoLinx"
+
+
+
+
+git config --global user.email "phoenixlinxprime@gmail.com"
+
+
+git config --global user.password "Locococo87^"
+
+git add MeGlWindow.cpp
+
+
+
+git pull https://bitbucket.org/gshaykhian/jukebox/src/master/
+
+// this will clone a remote repo
+
+git clone https://bitbucket.org/AktinoLinx/medicalapplication/src/master/
+
+
+
+//this will create a new local git
+
+git init C:\cygwin64\home\PHOENIX\eclipse-cpp-2019-06-R-win32-x86_64\eclipse\u
+
+
+
+
+
+//This will commit
+
+git commit -m "This will allow the ability to transfer data from an entire CSV file into a SQL table"
+
+
+
+//This will update the remote branch with the latest commit
+
+git push --set-upstream origin addTestDoctorServiceClass
+
+
+
+//This will create a newe branch  switch to the new branch and make your last commit its starting point
+
+git checkout -b addClassTestMedication
+
+
+//This will only switch to an existing branch
+ git checkout  addClassTestEmployee
+
+//This will unstage all unwanted stages
+
+git reset
+
